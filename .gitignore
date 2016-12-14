@@ -2,6 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
+**.mov
+**.avi
 
 # os
 **.DS_Store
